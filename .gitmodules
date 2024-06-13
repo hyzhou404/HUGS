@@ -1,0 +1,6 @@
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "submodules/hugs-rasterization"]
+	path = submodules/hugs-rasterization
+	url = https://github.com/hyzhou404/hugs-rasterization

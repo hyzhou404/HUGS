@@ -1,0 +1,19 @@
+config==0.5.1
+datasets==2.19.2
+# flow_vis_torch==0.1
+imageio==2.34.1
+matplotlib==3.9.0
+network==0.1
+numpy==1.26.4
+open3d==0.18.0
+opencv_python==4.10.0.82
+Pillow==10.3.0
+plyfile==1.0.3
+# pytorch3d==0.7.4
+runx==0.0.11
+scipy==1.13.1
+setuptools==69.5.1
+# torch==2.3.1+cu118
+torchmetrics==1.4.0.post0
+# torchvision==0.18.1+cu118
+tqdm==4.66.4
